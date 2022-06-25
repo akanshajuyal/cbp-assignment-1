@@ -1,0 +1,176 @@
+
+.introduction{
+    height: 600px;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("https://images01.nicepage.com/2c/aa/2caae017a61202f87bc36fab57e85a63.png");
+    background-size: cover;
+}
+
+.text-1{
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    margin: 122px 20px 0 0;
+    text-transform: uppercase;
+    font-family: Roboto, sans-serif;
+    font-size: 0.6cm;
+    color: #f4cb08;
+    position: absolute;
+    top: 8%;
+    left: 20%;
+}
+
+.text-2{
+    font-size: 3rem;
+    margin: 20px 20px 0 0;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: Roboto, sans-serif;
+    color: white;
+    position: absolute;
+    top: 22%;
+    left: 20%;
+}
+
+.hr-1{
+    border-top: 3px solid rgb(226, 214, 45);
+    width: 100px;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+
+.text-3{
+    font-family: Roboto, sans-serif;
+    color: white;
+    font-size: 1rem;
+    line-height: 1.6;
+    position: absolute;
+    top: 32%;
+    left: 20%;
+}
+
+.image-1{
+    max-height: 90%;
+    margin-left: 45%;
+    justify-content: end;
+    position: relative;
+    top: 10%;
+    left: 20%;
+}
+
+.button-1{
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    border: 2px solid #f4cb08;
+    border: none;
+    font-size: 1rem;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: #f4cb08;
+    position: absolute;
+    top: 45%;
+    left: 20%;
+}
+
+.button-2{
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    border: 2px solid white;
+    background-color: transparent;
+    font-size: 1rem;
+    padding: 10px 10px;
+    border-radius: 5px;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+}
+
+.about{
+    overflow: hidden;
+}
+
+.text-4{
+    text-transform: uppercase;
+    position: relative;
+    font-family: Roboto, sans-serif;
+    left: 20%;
+    font-size: 1.5rem;
+    font-weight: 700;
+    top: 30px;
+    margin: 45px 20px 0 0;
+    color: #f4cb08
+
+}
+
+.text-5{
+    position: relative;
+    text-transform: uppercase;
+    left: 20%;
+    top: 40px;
+    font-size: 2.25rem;
+    font-family: Roboto, sans-serif;
+    line-height: 1.1;
+    font-weight: 900;
+    margin: 15px 20px 0 0;
+    color: black;
+
+}
+
+.hr-2{
+    position: relative;
+    top :15%;
+    border-top: 3px solid ;
+    top: 50px;
+    width: 100px;
+    left: -480px;
+    color: #f4cb08
+
+
+
+}
+.text-6{
+    position: relative;
+    left: 20%;
+    font-style: italic;
+    top: 60px;
+    font-size: 1.5rem;
+    margin: 30px 20px 40px 0;
+    color: #b3b3b3 ;
+    font-size: 24px;
+    font-family: Roboto, sans-serif;
+    line-height: 1.6;
+
+    
+}
+
+.text-7{
+    font-family: Roboto, sans-serif;
+    top: -225px;    
+    color: black;
+    text-align: top;
+    text-overflow: ellipsis;
+    line-height: 30px;
+    height: 600px;
+    width:550px;
+    position: relative;
+    left: 55%;  
+    
+}
+
+.button-3{
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    border: 2px solid r#f4cb08;
+    border: none;
+    font-size: 0.4cm;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: #f4cb08;
+    position: relative;
+    top: -450px;
+    left: 55%;
+}
